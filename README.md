@@ -16,4 +16,10 @@ $$
 
 # Scripts
 
-## 1. PIN
+## 1. PINN - Real Outputs with Constant D
+
+## 2. PINN - Complex Outputs with Constant D
+
+## 3. PINN - Real Outputs with Time-Dependent D
+
+## 4. PINN - Complex Outputs with Time-Dependent D
