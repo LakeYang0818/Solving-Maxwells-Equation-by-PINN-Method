@@ -16,10 +16,12 @@ $$
 
 # Scripts
 
-## 1. PINN - Real Outputs with Constant D
+### 1. PINN - Real Outputs with Constant D
 
-## 2. PINN - Complex Outputs with Constant D
+[a relative link](PINN method to solve 4.11 equation - Real Ouput.ipynb)
 
-## 3. PINN - Real Outputs with Time-Dependent D
+### 2. PINN - Complex Outputs with Constant D
 
-## 4. PINN - Complex Outputs with Time-Dependent D
+### 3. PINN - Real Outputs with Time-Dependent D
+
+### 4. PINN - Complex Outputs with Time-Dependent D
