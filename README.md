@@ -13,3 +13,7 @@ $$
 \frac{dj}{dt} + \frac{\eta D}{2}(j + k_1 * j) = 
 \frac{\eta D}{2}(j_0 + k_1 * j_0) + D \cdot E_{x0}(0, t)
 $$
+
+# Scripts
+
+## 1. PIN
