@@ -18,7 +18,7 @@ $$
 
 ### 1. PINN - Real Outputs with Constant D
 
-[a relative link](PINN method to solve 4.11 equation - Real Ouput.ipynb)
+[a relative link]([PINN method to solve 4.11 equation - Real Ouput.ipynb](https://github.com/LakeYang0818/Solving-Maxwells-Equation-by-PINN-Method/blob/47417aafac2b44a1bd52b9a312c5ef814912d74e/PINN%20method%20to%20solve%204.11%20equation%20-%20Real%20Ouput.ipynb)https://github.com/LakeYang0818/Solving-Maxwells-Equation-by-PINN-Method/blob/47417aafac2b44a1bd52b9a312c5ef814912d74e/PINN%20method%20to%20solve%204.11%20equation%20-%20Real%20Ouput.ipynb)
 
 ### 2. PINN - Complex Outputs with Constant D
 
